@@ -21,10 +21,8 @@ author: matiaspedro97
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications: "publication"
+  Home: "https://matiaspedro97.github.io/"
 
 ################
 # --- Logo --- #
