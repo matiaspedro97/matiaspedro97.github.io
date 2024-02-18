@@ -6,13 +6,13 @@ Developed an unsupervised framework using Variational Autoencoder coupled with a
 
 ![Illustrative Image Placeholder](assets/img/vae_ad.jpg)
 
-#### 2. **Time series segmentation using neural networks with cross-domain transfer learning**
+#### 2. **Time Series Segmentation using Neural Networks with Cross-Domain Transfer Learning**
 Introduced a Mask-based Neural Network for extracting patterns from time series without predefined templates, demonstrating enhanced segmentation performance compared to traditional methods. Utilized transfer learning and data augmentation techniques for model convergence, achieving high Precision and Recall scores in clinical and human activity domains. Check the publication
 [here](https://www.mdpi.com/2079-9292/10/15/1805).
 
 ![Illustrative Image Placeholder](assets/img/tl_dl.png)
 
-#### 3. **Clinically relevant sound-based features in COVID-19 identification: robustness assessment with a data-centric machine learning pipeline**
+#### 3. **Clinically Relevant Sound-based Features in COVID-19 Identification: Robustness Assessment with a Data-Centric Machine Learning Pipeline**
 Developed a modular data-centric Machine Learning pipeline for COVID-19 identification from vocal and respiratory audio samples, achieving sensitivity scores ranging from 60.00% to 80.00%. Emphasized the importance of interpretable features and data quality validation for effective disease identification. Check the publication 
 [here](https://ieeexplore.ieee.org/document/9906975).
 
