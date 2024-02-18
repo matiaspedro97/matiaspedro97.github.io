@@ -26,5 +26,5 @@ Feel free to navigate through the sections above to dive deeper into my specific
 
 Thank you for visiting, and I hope you find this website informative and inspiring! 🚀
 
-P.S.: My contacts are placed on the footer of any page. 📧
+P.S.: My contacts are highlighted on the footer of any page. 📧
 
