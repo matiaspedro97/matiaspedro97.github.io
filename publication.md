@@ -23,3 +23,18 @@ Proposed Deep Learning frameworks for pattern segmentation and anomaly detection
 [here](https://run.unl.pt/handle/10362/157934).
 
 ![Illustrative Image Placeholder](assets/img/ts_match.png)
+
+#### 5. **Acoustic and Clinical Data Analysis of Vocal Recordings: Pandemic Insights and Lessons**
+This study integrates audio processing, feature engineering, and ML classification models to analyze vocal recordings during the pandemic, exploring associations between vocal features and COVID-19 infections. Insights offer valuable lessons for future health crises. Check the publication [here](https://www.mdpi.com/2075-4418/14/20/2273).
+
+![Illustrative Image Placeholder](assets/img/pipe_acoustics.png)
+
+#### 6. **Self-Monitoring Practices and Use of Self-Monitoring Technologies by People with Rheumatic and Musculoskeletal Diseases**
+An international survey studying the self-monitoring behaviors of individuals with rheumatic and musculoskeletal diseases, focusing on the role of technology. Classical statistical analyses were carried out in the scope of this work. Check the publication [here](https://www.mdpi.com/2227-9032/12/19/1960).
+
+![Illustrative Image Placeholder](assets/img/self_monit_rheuma_scheme.png)
+
+#### 7. **COTIDIANA Dataset – Smartphone-Collected Data on the Mobility, Finger Dexterity, and Mental Health**
+This dataset captures smartphone-collected data on mobility, finger dexterity, and mental health in patients with rheumatic and musculoskeletal diseases, enabling digital health research. Check the publication [here](https://ieeexplore.ieee.org/document/10669778).
+
+![Illustrative Image Placeholder](assets/img/cot_dset_scheme.png)
