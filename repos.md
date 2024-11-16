@@ -1,6 +1,6 @@
 # Repositories
 
-## 1. Battle Game
+### 1. Battle Game
 **Repo Description:** A simple 2D battle game developed in Python using the Pygame library. Players engage in real-time combat against each other, utilizing different weapons and abilities. The game supports 1vs1 PVP mode with player movement, attack controls, and health/energy management.
 
 **Key Features:**
@@ -15,7 +15,7 @@
 
 **Link:** [Battle Game Repo](https://github.com/matiaspedro97/GAME)
 
-## 2. Music Genre Classification
+### 2. Music Genre Classification
 **Repo Description:** This project focuses on music genre classification using machine learning techniques. It involves the training and deployment of a pre-trained audio model fine-tuned on the GTZAN dataset, utilizing the HuggingFace platform for model deployment.
 
 **Key Features:**
@@ -29,7 +29,7 @@
 
 **Link:** [Music Genre Classification Repo](https://github.com/matiaspedro97/Music)
 
-## 3. MLOps Challenge
+### 3. MLOps Challenge
 **Repo Description:** This project implements an end-to-end ML solution to classify keystrokes, serving the trained models via a REST API. It focuses on building a reliable data pipeline, model training, and deployment in a production environment.
 
 **Key Features:**
@@ -44,7 +44,7 @@
 
 **Link:** [MLOps Challenge Repo](https://github.com/matiaspedro97/mlops_challenge)
 
-## 4. LLM QA Retrieval
+### 4. LLM QA Retrieval
 **Repo Description:** This project involves building a QA retrieval system using Large Language Models (LLMs). It includes zero-shot and few-shot learning techniques to answer questions from fetched news data, employing ChromaDB for semantic search and text generation using LLMs.
 
 **Key Features:**
@@ -59,7 +59,7 @@
 
 **Link:** [LLM QA Retrieval Repo](https://github.com/matiaspedro97/llm_qa_retrieval)
 
-## 5. LLM Text Generation
+### 5. LLM Text Generation
 **Repo Description:** A project dedicated to exploring the text generation capabilities of Large Language Models (LLMs). It focuses on model fine-tuning, text generation tasks, and deploying these models for real-world applications.
 
 **Key Features:**
@@ -69,7 +69,7 @@
 
 **Link:** [LLM Text Generation Repo](https://github.com/matiaspedro97/llm_text_generation)
 
-## 6. Activity Recognition
+### 6. Activity Recognition
 **Repo Description:** Machine Learning Challenge for Human Activity Recognition. This project is organized to facilitate data processing, model training, and evaluation for recognizing human activities based on sensor data.
 
 **Key Features:**
