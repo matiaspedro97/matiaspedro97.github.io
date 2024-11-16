@@ -1,4 +1,4 @@
-# Project Repositories
+# Repositories
 
 ## 1. Battle Game
 **Repo Description:** A simple 2D battle game developed in Python using the Pygame library. Players engage in real-time combat against each other, utilizing different weapons and abilities. The game supports 1vs1 PVP mode with player movement, attack controls, and health/energy management.
