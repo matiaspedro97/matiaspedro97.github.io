@@ -13,7 +13,7 @@
 1. Clone and install dependencies via pip.
 2. Run the game script or compile it into an executable with PyInstaller.
 
-**Link:** [Battle Game Repo](https://github.com/matiaspedro97/GAME)
+**Link:** [Battle Game Repo](https://github.com/matiaspedro97/BattleGame)
 
 ### 2. Music Genre Classification
 **Repo Description:** This project focuses on music genre classification using machine learning techniques. It involves the training and deployment of a pre-trained audio model fine-tuned on the GTZAN dataset, utilizing the HuggingFace platform for model deployment.
@@ -27,7 +27,7 @@
 1. Set up both Conda and virtualenv environments.
 2. Train models with the provided Python scripts and run them using custom pipelines.
 
-**Link:** [Music Genre Classification Repo](https://github.com/matiaspedro97/Music)
+**Link:** [Music Genre Classification Repo](https://github.com/matiaspedro97/MusicGenreClassification)
 
 ### 3. MLOps Challenge
 **Repo Description:** This project implements an end-to-end ML solution to classify keystrokes, serving the trained models via a REST API. It focuses on building a reliable data pipeline, model training, and deployment in a production environment.
